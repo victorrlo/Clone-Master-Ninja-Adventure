@@ -11,10 +11,12 @@ Joguinho que estou fazendo em scratch para aprender melhor lógica de programaç
 <img width=300px src="https://github.com/victorrlo/Clone-Master-Ninja-Adventure/assets/42052096/2d35cee1-00b0-4156-a33e-ffa41c8ba696"></img>
 
 ## O que eu pretendo pro jogo:
-1. Naruto pular de obstáculos e inimigos.
-2. Pergaminhos que aumentam a qtd de clones em 1 que vão aparecer aleatoriamente durante as fases para ajudar o jogador.
-3. Obstáculos como troncos de madeira, galhos de árvore, armadilhas de furar o pé etc para fazer o Naruto perder um clone.
-4. Um inimigo inicialmente que joga shurikens para cima para evitar que o jogador consiga pisar na cabeça dele e derrotá-lo.
-5. Naruto pisar na cabeça dos inimigos para ganhar 1 clone.
-6. Criar uma chance aleatória (50/50) do Naruto falhar invocar um clone (aquele clone branco falho que ele invoca no início do desenho), para criar mais tensão no jogo.
-7. Máximo de clones: 10?
+- [x] Naruto pular de obstáculos e inimigos.
+- [ ] Pergaminhos que aumentam a qtd de clones em 1 que vão aparecer aleatoriamente durante as fases para ajudar o jogador.
+  - [ ] Clones que pulam junto com o jogador.
+  - [ ] Clones que pulam de forma "atrasada" do jogador.
+- [ ] Obstáculos como troncos de madeira, galhos de árvore, armadilhas de furar o pé etc para fazer o Naruto perder um clone.
+- [ ] Um inimigo inicialmente que joga shurikens para cima para evitar que o jogador consiga pisar na cabeça dele e derrotá-lo.
+- [ ] Naruto pisar na cabeça dos inimigos para ganhar 1 clone.
+- [ ] Criar uma chance aleatória (50/50) do Naruto falhar invocar um clone (aquele clone branco falho que ele invoca no início do desenho), para criar mais tensão no jogo.
+- [ ] Máximo de clones: 10?
